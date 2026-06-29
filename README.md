@@ -8,5 +8,5 @@
 <p align="left">
   <a href='https://t.me/channelhehejuice'><img alt='Telegram Channel' height='35' src='./HeheJuice/ChannelV2.png'/></a>
     <a href='https://t.me/SecHehe'><img alt='Telegram Discussion' height='35' src='./HeheJuice/DiscussionV2.png'/></a>
-    <a href='https://github.com/HeheJuice/OneUI-Lockscreen-Font-EXT/releases'><img alt='Latest Release' height='35' src='./HeheJuice/DownloadV2.png'/></a>
+    <a href='https://github.com/HeheJuice/OvenUI_OneUI/releases'><img alt='Latest Release' height='35' src='./HeheJuice/DownloadV2.png'/></a>
 </p>

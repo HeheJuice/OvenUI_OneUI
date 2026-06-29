@@ -10,3 +10,8 @@
     <a href='https://t.me/SecHehe'><img alt='Telegram Discussion' height='35' src='./HeheJuice/DiscussionV2.png'/></a>
     <a href='https://github.com/HeheJuice/OvenUI_OneUI/releases'><img alt='Latest Release' height='35' src='./HeheJuice/DownloadV2.png'/></a>
 </p>
+
+> [!IMPORTANT]
+> * Get notified yourself that I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed.
+> * Please do some research if you have any concerns about features included in this ROM before flashing it!
+> * YOU are choosing to make these modifications,and if you point the finger at me for messing up your device,I will laugh at you.

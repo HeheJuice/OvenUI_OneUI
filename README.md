@@ -23,7 +23,7 @@
 - Disabled these following
    - Samsung ASKS 
    - File Encryption 
-   - System Signature verification 
+   - System APK Signature verification 
 - Some floating-feature tweaks 
 
 ## 📝 Credits 

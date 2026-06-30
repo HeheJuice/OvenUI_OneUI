@@ -25,4 +25,4 @@
 - File Encryption Removed
 - Some floating-feature tweaks 
 
-## ❤️ Credits 
+## 🥰 Credits 

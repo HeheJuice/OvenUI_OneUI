@@ -20,7 +20,10 @@
 - Debloated and Light Weight 
 - Removed all Galaxy AI to save RAM
 - High-End Flagship Animation
-- Samsung ASKS,File Encryption and System Signature verification Disabled
+- Disabled these following
+   - Samsung ASKS
+   - File Encryption
+   - System Signature verification
 - Some floating-feature tweaks 
 
 ## 📝 Credits 

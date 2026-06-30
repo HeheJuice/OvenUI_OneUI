@@ -21,9 +21,9 @@
 - Removed all Galaxy AI to save RAM
 - High-End Flagship Animation
 - Disabled these following
-   - Samsung ASKS "Samsung APK Update Verification"
-   - File Encryption "User Data Encryption"
-   - System Signature verification "Custom APK Signature"
+   - Samsung ASKS 
+   - File Encryption 
+   - System Signature verification 
 - Some floating-feature tweaks 
 
 ## 📝 Credits 

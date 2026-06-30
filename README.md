@@ -16,7 +16,7 @@
 > * `Please do some research if you have any concerns about features included in this ROM before flashing it!`
 > * `YOU are choosing to make these modifications,and if you point the finger at me for messing up your device,I will laugh at you.`
 
-## Basic Modification 
+## ☑️ Basic Modification 
 - Debloated Useless Apps
 - Removed all Galaxy AI since those uses lots of RAM
 - High-end Flagship Animation 
@@ -24,3 +24,5 @@
 - System Signature verification Disabled 
 - File Encryption Removed
 - Some floating-feature tweaks 
+
+## ❤️ Credits 

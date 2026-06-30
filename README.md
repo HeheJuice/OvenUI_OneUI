@@ -31,4 +31,4 @@ Special Thanks to following Developers (Not in particular order)
 - **[ShaDisNX255](https://github.com/ShaDisNX255)** for NcX ROM Name Settings UI Patch
 - **[Mods Center](https://github.com/Mods-Center)** for Android Signature Verification Patches 
 - **[HeheJuice](https://github.com/HeheJuice)** of course me,for making the ROM and New Vendor
-- **All Developers who helps and Users
+- **All Developers who helps and Users**

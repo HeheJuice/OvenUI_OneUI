@@ -3,7 +3,7 @@
 </h1>
 
 # 🗺️ Project Overview 
-オーブンUI (OvenUI) is a project that brings newer OneUI (6~7) to Samsung Galaxy A03s
+オーブンUI (OvenUI) is a project that brings newer OneUI (6+) to Samsung Galaxy A03s
 
 <p align="left">
   <a href='https://t.me/channelhehejuice'><img alt='Telegram Channel' height='35' src='./HeheJuice/ChannelV2.png'/></a>

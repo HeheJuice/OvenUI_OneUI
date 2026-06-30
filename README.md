@@ -17,12 +17,10 @@
 > * `YOU are choosing to make these modifications,and if you point the finger at me for messing up your device,I will laugh at you.`
 
 ## ☑️ Basic Modification 
-- Debloated Useless Apps
-- Removed all Galaxy AI since those uses lots of RAM
-- High-end Flagship Animation 
-- Samsung ASKS Disabled
-- System Signature verification Disabled 
-- File Encryption Removed
+- Debloated and Light Weight 
+- Removed all Galaxy AI to save RAM
+- High-End Flagship Animation
+- Samsung ASKS,File Encryption and System Signature verification Disabled
 - Some floating-feature tweaks 
 
 ## 📝 Credits 

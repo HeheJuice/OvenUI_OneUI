@@ -30,7 +30,8 @@
 Special Thanks to following Developers (Not in particular order)
 - **[rsuntk](https://github.com/rsuntk)** for LuminousTwilight Kernel for Galaxy A03s Series 
 - **[ShaDisNX255](https://github.com/ShaDisNX255)** for NcX ROM Name Settings UI Patch Inspiration
-- **[Mods Center](https://github.com/Mods-Center)** for Android Signature Verification Patches 
+- **[Mods Center](https://github.com/Mods-Center)** for Android Signature Verification Patches
+- All Galaxy A03s Developers for OrangeFox Recovery 
 - **OPPO** for 與光同行者 Wallpaper 
 - **[HeheJuice](https://github.com/HeheJuice)** of course me,for making the ROM and New Vendor
 - *All Developers who helps and Users*

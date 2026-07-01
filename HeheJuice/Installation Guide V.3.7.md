@@ -3,7 +3,10 @@
 - You should have read the GitHub Page Before Installing
 - A Unlocked Bootloader and Patched Vbmeta is REQUIRED
 - OrangeFox Recovery Installed on your A03s
-- Platforms Tool and Adb Driver 
+- Platforms Tool and Adb Driver
+- It's Recommended to have this version of Firmware if you have A037F
+     - A037FXXS8CYE1
+     - A037M Users SHOULD on A037M OneUI 5.1 Firmware ( Untested
 - Brain with skills and basic knowledge
 
 ### Installation 

@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img loading="lazy" src="Banner.png"/>
+</h1>
+
 ## Guides For Installing オーブンUI「OvenUI」 V.3.7 Beta [OneUI 6.1]
 ### Basic Requirements 
 - You should have read the GitHub Page Before Installing

@@ -1,2 +1,30 @@
-## Guides For Installing 「OvenUI」 V.3.7 Beta [OneUI 6.1]
-- You should have read the GitHub Page Before Installing 
+## Guides For Installing オーブンUI「OvenUI」 V.3.7 Beta [OneUI 6.1]
+### Basic Requirements 
+- You should have read the GitHub Page Before Installing
+- A Unlocked Bootloader and Patched Vbmeta is REQUIRED
+- OrangeFox Recovery Installed on your A03s
+- Platforms Tool and Adb Driver 
+- Brain with skills and basic knowledge
+
+### Installation 
+1. Keep these following files in a place where you can access
+     - The ROM ZIP on your PC and extracted 
+     - The Kernel ZIP and Permissiver ZIP on your SD Card or USB Drive
+2. Reboot to recovery and Press reboot to fastboot
+3. Connect to your PC and Open Platform Tool
+4. Typing the following commands
+     - fastboot erase system
+     - fastboot erase product
+     - fastboot erase system_ext
+     - fastboot erase vendor
+     - fastboot delete-logical-partition product_a
+     - fastboot delete-logical-partition product_b
+     - fastboot delete-logical-partition system_ext
+     - fastboot flash system [FILE]
+     - fastboot flash product [FILE]
+     - fastboot flash vendor [FILE]
+5. Press reboot to recovery on your phone
+6. Flash the following files
+     - Kernel
+     - Permissiver
+7. Factory Reset and Reboot to System

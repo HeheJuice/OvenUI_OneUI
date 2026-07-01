@@ -26,6 +26,8 @@
    - System APK Signature verification 
 - Some floating-feature tweaks 
 
+### ❗ You are not allowed to use my ROM or Vendor to make something else and claim it's your product 
+
 ## 📝 Credits 
 Special Thanks to following Developers (Not in particular order)
 - **[rsuntk](https://github.com/rsuntk)** for LuminousTwilight Kernel for Galaxy A03s Series 

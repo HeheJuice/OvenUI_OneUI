@@ -28,9 +28,10 @@
 
 ### ❗ You are not allowed to use my ROM or Vendor to make something else and claim it's your product 
 
-## Currently Available ROM
+## 😋 Currently Available ROM
 - オーブンUI V.3.8 Stable (OneUI 6.1)
 - OneUI 7 is still Personal Beta
+
 ## 📝 Credits 
 Special Thanks to following Developers (Not in particular order)
 - **[rsuntk](https://github.com/rsuntk)** for LuminousTwilight Kernel for Galaxy A03s Series 

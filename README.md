@@ -2,6 +2,9 @@
   <img loading="lazy" src="HeheJuice/Banner.png"/>
 </h1>
 
+#### Notice : This project is paused, old version can still be downloaded 
+- Reason of Project Paused 
+
 # 🗺️ Project Overview 
 オーブンUI (OvenUI) is a project that brings newer OneUI (6+) to Samsung Galaxy A03s
 

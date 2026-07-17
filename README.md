@@ -44,4 +44,5 @@ Special Thanks to following Developers (Not in particular order)
 - All Galaxy A03s Developers for OrangeFox Recovery 
 - **OPPO** for 與光同行者 Wallpaper 
 - **[HeheJuice](https://github.com/HeheJuice)** of course me,for making the ROM and New Vendor
+     - [Vendor Repository](https://github.com/HeheJuice/Galaxy_A037_Vendor_Development)
 - *All Developers who helps and Users*

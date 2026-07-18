@@ -32,7 +32,7 @@
 ### ❗ You are not allowed to use my ROM or Vendor to make something else and claim it's your product 
 
 ## 😋 Currently Available ROM
-- オーブンUI V.3.8 Stable (OneUI 6.1)
+- オーブンUI V.3.9 Stable (OneUI 6.1)
 - OneUI 7 is still Personal Beta
 
 ## 📝 Credits 
